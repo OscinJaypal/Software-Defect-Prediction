@@ -1,7 +1,7 @@
 # Software-Defect-Prediction
 Software defect prediction using Python libraries involves leveraging machine learning techniques to forecast potential defects in software based on historical data. Python libraries such as scikit-learn, TensorFlow, Keras, and pandas are commonly used in each phase of this process, offering robust tools for data preprocessing, model training, evaluation, and deployment in software defect prediction projects. This approach helps software development teams proactively identify and mitigate potential defects, improving overall software quality and reliability.
 
-Software Defect Prediction Using Python Libraries:
+## Methodology:
 
 1.	Data Collection and Preprocessing:
   a.	Data Collection: Gather historical data related to software development, including metrics like code complexity, code churn (changes over time), developer experience, and previous defect occurrences.
@@ -22,3 +22,5 @@ b.	Data Preprocessing: Clean and preprocess the data to handle missing values, n
 5.	Deployment and Monitoring:
   a.	Deployment: Once a satisfactory model is trained and validated, deploy it in a production environment to predict defects in new software developments or updates.
   b.	Monitoring: Continuously monitor the model's performance and retrain periodically using new data to maintain its effectiveness over time.
+
+## Stepwise implementation is shown in the code.
